@@ -1,6 +1,6 @@
 # Welcome to House Price Estimator!
 
-![house-sale](house.png)
+![house-sale](house.jpg)
 
 **Attention Seattle folks! Do you wonder what could be the market worth of your humble abode?**
 
@@ -54,7 +54,7 @@ The purpose of this project is to use data transformation and machine learning t
 
 # Summary
 
-*Scaling the features, generating new features with Gradient boosting regressor model with hyperparameter tuning led to the most accurate predictions with the least error. The result was a **mean absolute error of 92,000** with a **82% R^2 score**.<br>
+*Scaling the features, generating new features with Gradient boosting regressor model with hyperparameter tuning led to the most accurate predictions with the least error. The result was a **mean absolute error of 99,872** with a **79% R^2 score**.<br>
 This model can be used as a guide when determining house price estimates for Seattle since it leads to reasonable predictions.*
 
 # To run locally
@@ -65,6 +65,7 @@ This model can be used as a guide when determining house price estimates for Sea
    python main.py
  - The predictions for the sample test file with details
    of two houses will be saved to the folder.
+ - Note: Model was trained with Python 3.7.3 on [32 bit (Intel)] on win32
  ```
 
 # Access live model
