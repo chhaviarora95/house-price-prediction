@@ -1,6 +1,6 @@
 # Welcome to House Price Estimator!
 
-![house-sale](https://images.app.goo.gl/eSiFzxdvUgxmMzTQA/to/.png)
+![house-sale](house.png)
 
 **Attention Seattle folks! Do you wonder what could be the market worth of your humble abode?**
 
