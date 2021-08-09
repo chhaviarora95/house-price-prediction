@@ -1,0 +1,3 @@
+﻿id,date,bedrooms,bathrooms,sqft_living,sqft_lot,floors,waterfront,view,condition,grade,sqft_above,sqft_basement,yr_built,yr_renovated,zipcode,lat,long,sqft_living15,sqft_lot15
+1310430130,20140502T000000,3,2,1340,7912,2,0,0,3,3,1340,0,1955,2005,98133,47.7393,-122.3435,1500,7000
+2540830020,20150401T000000,5,3,3650,9050,2,0,4,5,7,3370,280,1921,0,98119,47.6389,-122.369,4200,9100
