@@ -17,8 +17,11 @@ def generate_scatter_plot(
 
     """ Generate scatter plot. """
     
-    fig = px.scatter(df, x=x_col, y=y_col)
-    fig.show()
+    plt.figure(figsize = (12,8))
+    sns.scatterplot(data=df, x=x_col, y=y_col)
+    plt.xlabel(f'{x_col}')
+    plt.ylabel(f'{y_col}')
+    plt.show()
 
 def generate_box_plot(
     df: pd.DataFrame,
@@ -27,8 +30,8 @@ def generate_box_plot(
     
     """ Generate box plot. """
     
-    fig = px.box(df, y=col)
-    fig.show()
+    sns.boxplot(x=df[col])
+    plt.show()
 
 def generate_dist_plot(
     df: pd.DataFrame,
