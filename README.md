@@ -68,16 +68,4 @@ This model can be used as a guide when determining house price estimates for Sea
  - Note: Model was trained with Python 3.7.3 on [32 bit (Intel)] on win32
  ```
 
-# Access live model
-
-- **Go to this link-**  
-- Enter all details of the house
-- Please make sure to use **Seattle Zipcodes, lat and long**
-   values. You could use the following example:
-    - **Zipcode:** 98178
-    - **Lat**:
-    - **Long**:
- - Click Submit
- - **Scroll up to to the top to see the predcicted price!**
-
  
