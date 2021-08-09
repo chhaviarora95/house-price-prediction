@@ -59,7 +59,7 @@ This model can be used as a guide when determining house price estimates for Sea
 
 # To run locally
 
-``` javascript
+``` 
  - Clone this repo.
  - Change directory to the repo and run this cmd:
    python main.py
@@ -78,3 +78,5 @@ This model can be used as a guide when determining house price estimates for Sea
     - **Long**:
  - Click Submit
  - **Scroll up to to the top to see the predcicted price!**
+
+ 
