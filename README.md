@@ -16,7 +16,7 @@ The purpose of this project is to use data transformation and machine learning t
  - Data Visualization - `Used boxplot, scatter plot & correlation matrices to visualize the data and it's characteristics.`
  -  Feature Engineering - `Create multiple new features from manipulating existing features.`
  - Machine Learning Algorithms Used - `Linear Regression, Polynomial Transformation,Random Forest & Gradient Boosting.`
- - Evaluation Metrics Used - `Mean Absolute Error(MSE) and R-squared`
+ - Evaluation Metrics Used - `Mean Absolute Error(MAE) and R-squared`
 
 # Technologies/Libraries Used
 ``` javascript
